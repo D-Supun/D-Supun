@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💻 Full Stack Developer | MERN Stack Developer | IT Undergraduate
+💻 Full Stack Developer | IT Undergraduate
 </h3>
 
 <p align="center">
@@ -87,15 +87,6 @@
 
 ---
 
-# 🔥 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=D-Supun&theme=tokyo-night" />
-
-</p>
-
----
 
 # 🛠 Tools I Use
 
